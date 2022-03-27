@@ -78,6 +78,8 @@ function App() {
           }
         />
       </Routes>
+
+      <Heading text="PRODUCT REVIEWS" />
     </Router>
   );
 }
